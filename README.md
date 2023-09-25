@@ -2,6 +2,8 @@
 
 ![Roger Github stats](https://github-readme-stats.vercel.app/api?username=Rogeeer1&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogeeer1&hide_progress=true)
+
 ### Tecnologias que eu utilizo no meu dia
 
 <div style="display: inline_block"><br/>
